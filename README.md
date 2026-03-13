@@ -127,9 +127,9 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** Grace mkandawire
+**Student ID:** 2022008162
+**Design Theme:* it is a blue themed website, has some shades of white as a secondary color and yellow buttons
 
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
@@ -139,10 +139,10 @@ Before submitting, verify:
 - [ ] Other: _______________
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+inserting the image was challenging . i resolved it by researching.
 
 ### Credits
-[List any images, fonts, or resources used with attribution]
+all images used are of my own creation.
 
 ---
 
